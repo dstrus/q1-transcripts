@@ -1,0 +1,25 @@
+Hey, everyone. Welcome to Kenzie Academy. I'm Davey Strus.
+
+I'd like to share a few tips for getting around in macOS. Be sure you've read through the [Mac Basics](https://help.apple.com/macOS/high-sierra/mac-basics/) presentation and checked out the other links on this page. I won't be covering that material here. Rather, I'm going to show you some additional tricks for navigating macOS efficiently.
+
+Don't be distracted by the fact that I keep my dock on the left side of my screen. It doesn't really matter. I just happen to like it there.
+
+One thing you'll discover as you dive into software engineering is that it's important to organize all the windows you have open, and to be able to switch among your open windows quickly. There are lots of ways of making that easier, and I'll show you a few. As you can see, I have several windows open at the moment. I have a web browser open to MDN, the Mozilla Developer Network. That's a site with excellent documentation for HTML, CSS, and JavaScript, so you're likely to spend quite a bit of time there. I have another browser window open to Glitch, where I'm editing an HTML file. I have a preview of that HTML file in another window, and I have a document open in a word processor.
+
+I can switch among these windows by simply clicking on the window I'm interested in. Notice in the upper-left on the menu bar, right next to the Apple menu, the next pull-down menu always shows the name of the active application. I'm using two different web browsers at the moment, which may seem a little silly, but I wanted to illustrate that you can always tell which application has your focus by checking the menu immediately to the right of the Apple menu in the upper-left of your screen. Now it's Chrome, now it's Firefox, now it's Pages. Click on the Desktop, and now it's Finder.
+
+So switching between windows or applications by just clicking a window is all well and good, as long as you can see the window in question, and are able to identify it. But much of the time I either have a window that's completely covered up by another one, or there's just a little corner peaking out, and I have no idea what it is. So how else can we switch between windows or applications?
+
+You may be familiar with the Cmd+tab shortcut. It acts very much like Ctrl+tab in Windows. You'll find that many keyboard shortcuts are shared between the two, with macOS using Cmd wherever Windows uses Ctrl. So Cmd+tab switches between applications, but it does not switch between multiple windows that are open in the same application.
+
+So how can we easily do that? There's a great trackpad gesture for that. Swipe up with three fingers to activate Mission Control, formerly called Exposé, and all your open windows shrink and spread out so you can see all of them. Hover over one to see its title. Press the spacebar to get a closer look at one. Or click on a window to switch to that one. You can also use this trick to have a look at your windows without actually switching. Just swipe up with three fingers to activate Mission Control, and then swipe down with three fingers to deactivate Mission Control without changing focus.
+
+Similarly, if you want to take a look at your desktop, but there are tons of windows in the way, you can temporarily hide them by taking three fingers and your thumb, and spreading them out. I love that trick. As you might guess, you can bring all the windows back by doing that gesture in reverse, pinching with three fingers and a thumb.
+
+Mission Control also encompasses a feature formerly known as Spaces, which lets you manage virtual desktops. Activate Mission Control with the three-finger gesture, then look along the top of your screen. I already have a couple of desktops open. Now I'll open another by clicking the "+" on the right side. Once I've created the new desktop, I can drag windows onto it. I can switch to a desktop by clicking its preview while Mission Control is active, or I can swipe left and right with three fingers at any time. To close a virtual desktop, open Mission Control, hover over the preview of the desktop you want to close, and click the "X" in the upper-left of the preview.
+
+Right now, I have an HTML file open in Glitch, and a preview of that file open in a separate window. I'd love to have those two windows side-by-side. There's an easy, built-in way to accomplish that. You already know about full-screen mode, which you can activate by clicking the green circle in the upper-left of every window, but you can also activate side-by-side mode by holding down that same button. As you hold it down, you'll be given a chance to choose the left or right half of the screen, and once you've done that, you can click an additional window to take up the other half. By default, each window will take up 50% of the screen, but you can resize them by clicking and dragging. It's super-handy!
+
+As you might imagine, there are a lot of other nifty window management tricks you can use, but these are some of the ones that I use the most. Hopefully you get as much use out of them as I do.
+
+Until next time, I'm Davey Strus. Haaaappy hacking!
