@@ -1,4 +1,8 @@
-Hey, everyone. Welcome to Kenzie Academy. I'm Davey Strus.
+Further reading:
+* [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) on MDN
+* [What's in the `head`?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) on MDN
+* [The `meta` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta) on MDN
+* [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) on Wikipedia
 
 We understand tags and attributes. Now let's talk about the overall structure of an HTML page. There are a few things we ought to have on every page. Now, web browsers are very tolerant of invalid markup, and they'll do the best they can to guess what you mean, but we aim to write valid markup in the first place.
 

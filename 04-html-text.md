@@ -1,3 +1,8 @@
+Further reading:
+* [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals) on MDN
+* [HTML entities](https://www.w3schools.com/html/html_entities.asp) on w3schools
+* [When should one use HTML entities?](https://stackoverflow.com/questions/436615/when-should-one-use-html-entities) on Stack Overflow
+
 Hey, everyone. Welcome to Kenzie Academy. I'm Davey Strus.
 
 We know that HTML documents have a head, containing metadata and links to external files, and a body, where the actual content belongs. Let's look at some of the elements we can use to mark up that content.
